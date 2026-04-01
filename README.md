@@ -26,7 +26,7 @@
 
 <br>
 
-<h3 align="left">📊 GitHub Stats & Study</h3>
+<h3 align="left">📊GitHub Stats & Study</h3>
 <p align="left">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=sihwan0802&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true" width="54%" height="200px" alt="GitHub Stats"/>
   
