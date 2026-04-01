@@ -1,5 +1,4 @@
-# 🚀 sihwan0802's GitHub
-
+# 🚀 sihwan0802's GitHub.
 
 <br>
 
@@ -44,7 +43,7 @@
 <div align="left">
   <a href="https://sihwan0802.github.io/">
     <img src="https://img.shields.io/badge/Blog-FF5A00?style=for-the-badge&logo=github&logoColor=white"></a>&nbsp;
-  <a href="mailto:sihwan0802@gmail.com">
+  <a href="mailto:www.sihwan@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
 </div>
 
